@@ -1,0 +1,5 @@
+print("---------Convert string to int.--------")
+num=input("Enter a number:")
+convert=int(num)
+print(type(num))
+print(type(convert))

@@ -1,0 +1,6 @@
+print("-----Convert float to string--------")
+num=float(input("Enter a number:"))
+convert=str(num)
+print(type(num))
+print(type(convert))
+print(convert)
